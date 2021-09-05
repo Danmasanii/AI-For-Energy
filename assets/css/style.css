@@ -18,8 +18,8 @@ marquee{
   background-image: url("./img/co2industryblack.jpeg");
   background-repeat: no-repeat;
   background-position: fixed;
-  background-attachment:fixed;
-  background-size: 100%;
+  background-attachment:center;
+  background-size: 200%;
 }
 #description {
   /*
