@@ -19,7 +19,7 @@ marquee{
   background-repeat: no-repeat;
   background-position: fixed;
   background-attachment:center;
-  background-size: 200%;
+  background-size: 100%;
 }
 #description {
   /*
