@@ -14,7 +14,13 @@ marquee{
   text-align: center;
   color:rgb(138, 138, 221);
 }
-
+.hero{
+  background-image: url("./img/co2industryblack.jpeg");
+  background-repeat: no-repeat;
+  background-position: fixed;
+  background-attachment: center;
+  background-size: 100%;
+}
 #description {
   /*
   text-align: center;
